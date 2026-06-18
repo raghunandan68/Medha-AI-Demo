@@ -1,0 +1,24 @@
+# Virtual env
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Local vector database
+qdrant_data/
+
+# Uploaded files
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+test_supabase.py
